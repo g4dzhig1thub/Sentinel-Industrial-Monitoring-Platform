@@ -1,1 +1,1 @@
-# First-Project-Co-create-Alex-
+# Sentinel-Industrial-Monitoring-Platform
